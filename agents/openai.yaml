@@ -1,0 +1,3 @@
+interface:
+  display_name: "Zhipu Balance"
+  short_description: "Check Zhipu BigModel API balance"
